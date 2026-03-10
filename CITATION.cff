@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: thesis
+title: "Development of a Laboratory Prototype of a Rotational Viscometer"
+authors:
+  - family-names: "Kuravanparambil Rajan"
+    given-names: "Rahul"
+    student-id: "12201084"
+institution:
+  name: "Deggendorf Institute of Technology"
+  department: "Faculty of Electrical Engineering and Media Technology"
+  address: "Dieter-Görlitz-Platz 1"
+  city: "Deggendorf"
+  region: "Bavaria"
+  country: DE
+  post-code: "94469"
+thesis-type: "Master's Thesis"
+degree: "Master of Science (Electrical Engineering & Information Technology)"
+year: 2025
+month: 4
+abstract: >
+  This project developed a laboratory rotational viscometer prototype for determining
+  the viscosity of liquids with relevance to industrial glass applications. The system
+  uses a torque measurement method through a stepper motor-driven ceramic rod,
+  Raspberry Pi 5 for control and data logging, and validates measurements using
+  silicone oils with an infinite cup geometry model.
+keywords:
+  - viscosity
+  - rotational viscometer
+  - glass manufacturing
+  - Raspberry Pi
+  - torque measurement
+  - silicone oil
+  - infinite cup model
+  - stepper motor
+  - embedded systems
+license: "CC-BY-4.0"
+repository-code: "https://github.com/YOUR_USERNAME/rotational-viscometer-thesis"
